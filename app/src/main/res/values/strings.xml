@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speedometer</string>
+    <string name="increase_speed">Increase Speed</string>
+    <string name="decrease_speed">Decrease Speed</string>
+</resources>
